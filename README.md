@@ -30,13 +30,13 @@ The project aims to develop hands-on experience in deploying Active Directory al
 1. ##### Active Directory Project diagram.
 <img width="550" alt="Active Directory project Diagram" src="https://github.com/user-attachments/assets/1240b5c9-b3d8-40f2-b6e8-75c0ee4efdde">
 
-2. #### Created new users Jenny Smith and John Doe in IT department for Windows 10(Target-PC).
+2. #### Successfully deployed Active Directory on Windows Server 2019 and created user accounts for Jenny Smith and John Doe in the IT department.
 <img width="550" alt="Active Directory project" src="https://github.com/user-attachments/assets/f29d7f6f-8d6a-4784-8e70-3ed8bb44d768">
 
-3. #### Using crowbar to bruteforce attack using preinstalled rockyou password list.txt on John Doe's account to gain RDP access.
+3. #### Conducted bruteforce attack using crowbar w/ preinstalled rockyou password list.txt on John Doe's account to gain RDP access.
 <img width="550" alt="Active Directory project" src="https://github.com/user-attachments/assets/a502dc22-b12a-4255-8feb-373b149c6f56">
 
-4. #### We can see that this log displays code event = 4624(Records successful logon) to John Doe's computer from Kali(Attacker). 
+4. #### Monitored and analyzed logs using Splunk, identifying successful logon events (event code 4624) indicating successful brute-force attacks from the Kali machine.
 <img width="550" alt="Active Directory project" src="https://github.com/user-attachments/assets/32d52709-4944-4b58-b9b5-42b5ea1d1f46">
 <img width="550" alt="Active Directory project" src="https://github.com/user-attachments/assets/0f6375d3-9920-4f7d-a502-6d693f86ef3d">
 
