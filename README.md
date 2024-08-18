@@ -33,7 +33,7 @@ The project aims to develop hands-on experience in deploying Active Directory al
 2. #### Successfully deployed Active Directory on Windows Server 2019 and created user accounts for Jenny Smith and John Doe in the IT department.
 <img width="550" alt="Active Directory project" src="https://github.com/user-attachments/assets/f29d7f6f-8d6a-4784-8e70-3ed8bb44d768">
 
-3. #### Conducted bruteforce attack using crowbar w/ preinstalled rockyou password list.txt on John Doe's account to gain RDP access.
+3. #### Conducted bruteforce attack using crowbar w/ preinstalled rockyou password list.txt on John Doe's account to gain RDP access from Kali Linux.
 <img width="550" alt="Active Directory project" src="https://github.com/user-attachments/assets/a502dc22-b12a-4255-8feb-373b149c6f56">
 
 4. #### Monitored and analyzed logs using Splunk, identifying successful logon events (event code 4624) indicating successful brute-force attacks from the Kali machine.
